@@ -116,6 +116,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Massive](https://massive.com/) - Tick-level US equities, options, indices, forex, and crypto data via REST, WebSockets, and flat files (formerly Polygon.io, rebranded 2025).
 - [Morningstar Developer](https://developer.morningstar.com) - APIs for Morningstar investment data, research, and ratings.
 - [Nasdaq Data Link](https://data.nasdaq.com) - Financial, economic, and alternative datasets from Nasdaq (formerly Quandl).
+- [Nyria](https://nyria.io) - Alert-to-order platform that routes TradingView, TrendSpider, Discord and Telegram alerts to Schwab, Tradier, tastytrade and Alpaca broker accounts for automated US stock and options execution.
 - [SEC EDGAR APIs](https://www.sec.gov/search-filings/edgar-application-programming-interfaces) - Free official JSON APIs from the U.S. SEC for company filing histories and XBRL financial statement data, no API key required.
 
 ## Knowledge
